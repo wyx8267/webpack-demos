@@ -1,0 +1,11 @@
+{
+  "name": "demo03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
