@@ -1,0 +1,19 @@
+{
+  "name": "webpack-demos",
+  "version": "1.0.0",
+  "description": "A collection of webpack demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "build",
+    "webpack",
+    "demo"
+  ],
+  "author": "WYX",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.42.1"
+  }
+}
